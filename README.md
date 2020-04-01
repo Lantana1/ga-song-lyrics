@@ -37,14 +37,9 @@ Analyzing Band Lyrics for Classification and Prediction
 
 For more details on the files within the directories, there is a `README.md` file within each subdirectory.
 
-<!--
-* *[Final_Report.md](Final_Report.md)*
-
-  > A technical summary of the project. Includes the main text of the `README.md` files in the notebook directories.
-//-->
 * *NO_deck.pdf*
 
-> Presentation of this project from March 13, 2020 at General Assembly, Boston MA.
+  > Presentation of this project from March 13, 2020 at General Assembly, Boston MA.
 
 * *README.md*
 
@@ -92,7 +87,7 @@ CREATE TABLE IF NOT EXISTS "no" (
   url char(4095)
 );
 
-CREATE TABLE IF NOT EXISTS no_songs (
+CREATE TABLE IF NOT EXISTS "no_songs" (
   fk_id integer NOT NULL,
   song_id integer PRIMARY KEY NOT NULL,
   song_title char(255),
@@ -101,11 +96,11 @@ CREATE TABLE IF NOT EXISTS no_songs (
 );
 ```
 ## 4.0 Data Visualization
-![Album Lyric Length Bar Chart](./content/images/bar_albums_all.jpg)
+![Album Lyric Length Bar Chart](./content/images/bar_albums_all.jpg "H-Bar chart of song lyric length by album title")
 
-![LDA Topic Visualization](./content/images/lda_topics_pc2.jpg)
+![LDA Topic Visualization](./content/images/lda_topics_pc2.jpg "Visualization of Album-Song topics via LDA/pyLDAvis")
 
-![Song Lyrics, Predictions](./content/images/svc_score_preds.jpg)
+![Song Lyrics, Predictions](./content/images/svc_score_preds.jpg "Score of classification accuracy based upon SVC predictions")
 
 
 ## 5.0 Conclusion
@@ -118,8 +113,9 @@ Develop a single-serving site that generates a ”card” of possible song title
 
 ---
 ## 6.0 Outside Sources
-- [Genius (genius.com) API Documentation](https://docs.genuis.com/)
 - [Discogs - New Order](https://www.discogs.com/artist/3909-New-Order)
+- [New Order Discography](http://www.niagara.edu/neworder)
+- [Genius (genius.com) API Documentation](https://docs.genuis.com/)
 - [LyricsGenius: A Python client for the Genius.com API](https://github.com/johnwmillr/lyricsgenius)
 - [NLP concepts with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
 - [ML over Taylor Swift's Lyrics](https://news.codecademy.com/taylor-swift-lyrics-machine-learning/)
