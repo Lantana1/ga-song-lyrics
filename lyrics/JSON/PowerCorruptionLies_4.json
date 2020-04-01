@@ -1,0 +1,453 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/330886",
+ "full_title": "5 8 6 by\u00a0New\u00a0Order",
+ "header_image_thumbnail_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+ "id": 330886,
+ "instrumental": false,
+ "lyrics_owner_id": 288260,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1556364595,
+ "path": "/New-order-5-8-6-lyrics",
+ "pyongs_count": 2,
+ "song_art_image_thumbnail_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 0,
+  "contributors": 7,
+  "iq_earners": 7,
+  "transcribers": 1,
+  "unreviewed_annotations": 1,
+  "verified_annotations": 0,
+  "hot": false
+ },
+ "title": "5 8 6",
+ "title_with_featured": "5 8 6",
+ "updated_by_human_at": 1556364595,
+ "url": "https://genius.com/New-order-5-8-6-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/37694",
+  "header_image_url": "https://images.genius.com/657eda0d0992cb31a2c3851fe6263b93.1000x563x1.jpg",
+  "id": 37694,
+  "image_url": "https://images.genius.com/76e41832f0bc61e5e535ebc80a6cd9c9.519x519x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "New Order",
+  "url": "https://genius.com/artists/New-order"
+ },
+ "apple_music_id": "1040982145",
+ "apple_music_player_url": "https://genius.com/songs/330886/apple_music_player",
+ "description": {
+  "plain": "5-8-6 sounds like a previous version of what will be \u201cBlue Monday\u201d, New Order greatest single.\n\nPROPOSED SUGGESTION: From the \u201cBlue Monday\u201d Wikipedia page: \u00abSome rhythmic and synthesizer elements of the song had been used by the band in an earlier composition, \u201cVideo 5 8 6\u201d, in 1982, which evolved into the track \u201c5 8 6\u201d, appearing on the band\u2019s 1983 album Power, Corruption & Lies.\u00bb"
+ },
+ "embed_content": "<div id='rg_embed_link_330886' class='rg_embed_link' data-song-id='330886'>Read <a href='https://genius.com/New-order-5-8-6-lyrics'>\u201c5 8 6\u201d by New\u00a0Order</a> on Genius</div> <script crossorigin src='//genius.com/songs/330886/embed.js'></script>",
+ "featured_video": false,
+ "recording_location": null,
+ "release_date": "1983-05-01",
+ "release_date_for_display": "May 1, 1983",
+ "current_user_metadata": {
+  "permissions": [
+   "follow",
+   "pyong",
+   "add_community_annotation_to",
+   "view_apple_music_player",
+   "create_comment",
+   "create_annotation",
+   "view_song_story_gallery",
+   "propose_lyrics_edit"
+  ],
+  "excluded_permissions": [
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "see_pageviews",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "moderate_lyrics_edit_proposals",
+   "view_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {
+   "pinned_role": null
+  },
+  "iq_by_action": {
+   "edit_metadata": {
+    "primary": {
+     "multiplier": 1,
+     "base": 2.0,
+     "applicable": true
+    }
+   }
+  }
+ },
+ "album": {
+  "api_path": "/albums/58486",
+  "cover_art_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+  "full_title": "Power, Corruption and Lies by New Order",
+  "id": 58486,
+  "name": "Power, Corruption and Lies",
+  "url": "https://genius.com/albums/New-order/Power-corruption-and-lies",
+  "artist": {
+   "api_path": "/artists/37694",
+   "header_image_url": "https://images.genius.com/657eda0d0992cb31a2c3851fe6263b93.1000x563x1.jpg",
+   "id": 37694,
+   "image_url": "https://images.genius.com/76e41832f0bc61e5e535ebc80a6cd9c9.519x519x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "New Order",
+   "url": "https://genius.com/artists/New-order"
+  }
+ },
+ "custom_performances": [],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1600528,
+  "annotator_login": "josealvarez19",
+  "api_path": "/referents/3830237",
+  "classification": "unreviewed",
+  "fragment": "5 8 6",
+  "id": 3830237,
+  "is_description": true,
+  "path": "/3830237/New-order-5-8-6/5-8-6",
+  "range": {
+   "content": "5 8 6"
+  },
+  "song_id": 330886,
+  "url": "https://genius.com/3830237/New-order-5-8-6/5-8-6",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/330886",
+   "client_timestamps": {
+    "updated_by_human_at": 1556364595,
+    "lyrics_updated_at": 1556364595
+   },
+   "context": "New Order",
+   "id": 330886,
+   "image_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+   "link_title": "5 8 6 by\u00a0New\u00a0Order",
+   "title": "5 8 6",
+   "type": "Song",
+   "url": "https://genius.com/New-order-5-8-6-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3830237",
+    "body": {
+     "plain": "5-8-6 sounds like a previous version of what will be \u201cBlue Monday\u201d, New Order greatest single.\n\nPROPOSED SUGGESTION: From the \u201cBlue Monday\u201d Wikipedia page: \u00abSome rhythmic and synthesizer elements of the song had been used by the band in an earlier composition, \u201cVideo 5 8 6\u201d, in 1982, which evolved into the track \u201c5 8 6\u201d, appearing on the band\u2019s 1983 album Power, Corruption & Lies.\u00bb"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 3830237,
+    "pinned": false,
+    "share_url": "https://genius.com/3830237",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/3830237/New-order-5-8-6/5-8-6",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "vote",
+      "propose_edit_to",
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {
+      "accept": {
+       "primary": {
+        "multiplier": 1,
+        "base": 10.0,
+        "applicable": true
+       }
+      },
+      "reject": {
+       "primary": {
+        "multiplier": 1,
+        "base": 2.0,
+        "applicable": true
+       }
+      },
+      "delete": {
+       "primary": {
+        "multiplier": 1,
+        "base": 5.0,
+        "applicable": true
+       }
+      }
+     }
+    },
+    "authors": [
+     {
+      "attribution": 0.9285714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1600528",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/94e9901466622f44bd7b00ccdc30880e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/94e9901466622f44bd7b00ccdc30880e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/94e9901466622f44bd7b00ccdc30880e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/94e9901466622f44bd7b00ccdc30880e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/94e9901466622f44bd7b00ccdc30880e",
+       "human_readable_role_for_display": null,
+       "id": 1600528,
+       "iq": 133,
+       "login": "josealvarez19",
+       "name": "josealvarez19",
+       "role_for_display": null,
+       "url": "https://genius.com/josealvarez19",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07142857142857144,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8990413",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a7f6d2a32f35c4607c3e1b658ec66266",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a7f6d2a32f35c4607c3e1b658ec66266",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a7f6d2a32f35c4607c3e1b658ec66266",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a7f6d2a32f35c4607c3e1b658ec66266",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a7f6d2a32f35c4607c3e1b658ec66266",
+       "human_readable_role_for_display": null,
+       "id": 8990413,
+       "iq": 103,
+       "login": "NotJuanWilton",
+       "name": "NotJuanWilton",
+       "role_for_display": null,
+       "url": "https://genius.com/NotJuanWilton",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=lEmhfcoMiDo"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/37694",
+   "header_image_url": "https://images.genius.com/657eda0d0992cb31a2c3851fe6263b93.1000x563x1.jpg",
+   "id": 37694,
+   "image_url": "https://images.genius.com/76e41832f0bc61e5e535ebc80a6cd9c9.519x519x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "New Order",
+   "url": "https://genius.com/artists/New-order"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/37694",
+   "header_image_url": "https://images.genius.com/657eda0d0992cb31a2c3851fe6263b93.1000x563x1.jpg",
+   "id": 37694,
+   "image_url": "https://images.genius.com/76e41832f0bc61e5e535ebc80a6cd9c9.519x519x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "New Order",
+   "url": "https://genius.com/artists/New-order"
+  }
+ ],
+ "lyrics": "I see danger, danger, danger\nAll on the corner sent by me\nShadows the ways\nStraight away you ran from me\n\nHeard you calling\nYes, I heard you calling\nHeard you calling\nYes, I heard you calling\n\nI hear silence\nI hear silence in my heart\nFrom a distance\nTurn your back and run from me\n\nHeard you calling\nYes, I heard you calling\nHeard you calling\nYes, I heard you calling\n\nWhen it happens\nYou will be no friend of mine\nTake the first chance\nWhen I am no longer free\n\nHeard you calling\nYes, I heard you calling\nHeard you calling\nYes, I heard you calling\n\nIn the future\nWhen you want me in your heart\nI won't be there\nIf you call out in the dark\n\nHeard you calling\nYes, I heard you calling\nHeard you calling\nOh yes, I heard you, heard you, heard you, heard you calling\n\nCan you hear me deep inside?\nFrom these feelings I can't hide\nCan you hear me deep inside?\nFrom these feelings I can't hide\nOh, can you hear me deep inside?\nFrom these feelings I can't hide\n\nCan you hear me calling you?\nCan you hear me calling you?\nCan you hear me calling you?\nCan you hear me calling you?"
+}
